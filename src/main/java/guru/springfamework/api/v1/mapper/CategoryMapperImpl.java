@@ -2,7 +2,6 @@ package guru.springfamework.api.v1.mapper;
 
 import guru.springfamework.api.v1.model.CategoryDTO;
 import guru.springfamework.domain.Category;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 @Service
